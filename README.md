@@ -1,54 +1,127 @@
-# 🌐 Portafolio Personal
+# 🚀 Portafolio Web - Santiago Suarez
 
-Este proyecto es mi portafolio personal en el que muestro información académica, experiencia laboral, proyectos, conocimientos, idiomas, redes sociales y formas de contacto.  
-El sitio web fue desarrollado utilizando **HTML** y **CSS** básicos, con un diseño minimalista y organizado.
+Portafolio personal desarrollado para mostrar mis habilidades como desarrollador web, proyectos destacados, formación académica y canales de contacto.
 
-link de la paguina web https://quiet-alpaca-2ff2b1.netlify.app/
+## 🌐 Demo en vivo
+👉 https://snazzy-brigadeiros-72b1c7.netlify.app/
 
 ---
 
 ## ✨ Características
 
-- 👤 **Información personal**: foto de perfil, datos básicos y breve presentación.  
-- 🔗 **Redes sociales** con enlaces representados como **botones con íconos**.  
-- 📚 **información académica** (básica y secundaria).  
-- 💼 **experiencia laboral** con cargos y logros.  
-- 🚀 **Proyectos** destacados con título, stack, logros y repositorio.  
-- 🛠️ **conocimientos técnicos** (stack y nivel).  
-- 🌍 **Idiomas** con detalle de nivel en lectura, escritura y habla.  
-- 🎥 Espacio para un **video de presentación**.  
+- 🎨 Diseño UI futurista / cyberpunk
+- 📱 Responsive Design (desktop, tablet y mobile)
+- ⚡ Animaciones avanzadas
+- 🌌 Fondo interactivo con partículas usando Three.js
+- ⌨️ Typewriter effect dinámico
+- 📊 Barras animadas para skills e idiomas
+- 📨 Formulario de contacto funcional vía mailto
+- 🔥 Loader animado de inicio
+- 🖱️ Cursor personalizado interactivo
+- 📂 Navegación SPA con scroll suave
 
 ---
 
-## 🛠️ Herramientas Utilizadas
+## 🛠️ Tecnologías usadas
 
-- **HTML** → Para la estructura de las páginas.  
-- **CSS** → Para el diseño, estilos y organización del layout (grid, cajas, botones).  
-- **GitHub** → Para el control de versiones y almacenamiento del proyecto.  
+### Frontend
+- HTML5
+- CSS3
+- JavaScript Vanilla
 
----
+### Librerías externas
+- [Three.js](https://threejs.org/)
+- [AOS Animate On Scroll](https://michalsnik.github.io/aos/)
+- [Font Awesome](https://fontawesome.com/)
 
-## 📂 Estructura del Proyecto
-
-📦 portafolio
- ┣ 📂 css
- ┃ ┣ 📜 normalize.css
- ┃ ┗ 📜 style.css
- ┣ 📂 images
- ┃ ┣ 📜 facebook.png
- ┃ ┣ 📜 foto de perfil.png
- ┃ ┣ 📜 GitHub.png
- ┃ ┣ 📜 instagram.jpg
- ┃ ┗ 📜 linkedin.png
- ┣ 📂 videos
- ┗ 📜 index.html
+### Deployment
+- Netlify
 
 ---
 
-## 📌 Próximas Mejoras
+## 📁 Estructura del proyecto
 
-- [ ] Hacer la web completamente responsiva para móviles.  
-- [ ] Agregar animaciones con **CSS o JavaScript**.  
-- [ ] Implementar un formulario de contacto.  
-- [ ] Mejorar el diseño visual con una paleta de colores más personalizada.  
+```bash
+Portafolioweb/
+│
+├── index.html
+├── image/
+│   ├── perfil.png
+│   ├── image1.png
+│   └── image2.png
+└── README.md
+```
 
+---
+
+## 🧩 Secciones del portafolio
+
+- Hero Section
+- Sobre mí
+- Skills
+- Formación académica
+- Idiomas
+- Proyectos
+- Contacto
+- Footer
+
+---
+
+## 🚀 Instalación local
+
+Clona el repositorio:
+
+```bash
+git clone https://github.com/Suarez-26/Portafolioweb.git
+```
+
+Ingresa al directorio:
+
+```bash
+cd Portafolioweb
+```
+
+Abre el archivo:
+
+```bash
+index.html
+```
+
+O usa Live Server en VS Code.
+
+---
+
+## 📌 Proyectos destacados incluidos
+
+### 1. LMS Colombia
+Mapa interactivo de Colombia con información por departamentos.
+
+### 2. Hotel Rincón del Carmen
+Sistema web para reservas hoteleras con login y gestión de habitaciones.
+
+### 3. Sistema Biblioteca
+CRUD en consola con persistencia JSON para libros, música y películas.
+
+---
+
+## 📫 Contacto
+
+**Santiago Suarez**
+
+- 📧 santiago.suarezh26@gmail.com
+- 📱 +57 304 452 1694
+
+### Redes
+- GitHub: https://github.com/Suarez-26
+- Instagram: https://www.instagram.com/suarez_h26/
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo licencia MIT.  
+Puedes usarlo como referencia o inspiración.
+
+---
+
+⭐ Si te gusta este proyecto, dale una estrella al repositorio.
